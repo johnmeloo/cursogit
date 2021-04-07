@@ -7,6 +7,7 @@ namespace GIT_SLIDE_98
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Bom dia!");
         }
     }
 }
